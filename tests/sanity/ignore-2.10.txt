@@ -1,0 +1,12 @@
+plugins/modules/ec2.py validate-modules:doc-elements-mismatch
+plugins/modules/ec2.py validate-modules:parameter-list-no-elements
+plugins/doc_fragments/ec2.py future-import-boilerplate
+plugins/doc_fragments/ec2.py metaclass-boilerplate
+tests/unit/mock/path.py future-import-boilerplate
+tests/unit/mock/path.py metaclass-boilerplate
+tests/unit/mock/yaml_helper.py future-import-boilerplate
+tests/unit/mock/yaml_helper.py metaclass-boilerplate
+tests/unit/module_utils/conftest.py future-import-boilerplate
+tests/unit/module_utils/conftest.py metaclass-boilerplate
+tests/unit/modules/utils.py future-import-boilerplate
+tests/unit/modules/utils.py metaclass-boilerplate
